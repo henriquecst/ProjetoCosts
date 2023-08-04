@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "name": "Projeto final",
+      "budget": "10000",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "nome": "Dev PHP",
+          "cost": "5000",
+          "descricao": "contrate desenvolvedor",
+          "id": "bf8af36c-5477-4e2e-9ec3-ab7017a31c98"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Projeto Final 2",
+      "budget": "80000",
+      "categories": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desing"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
